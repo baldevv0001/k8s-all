@@ -1,5 +1,5 @@
 # k8s-all
-Kubernetes kind-cluster implemented on an ec2 instance to implemet and test key core k8s concepts.
+Kubernetes kind-cluster implemented on an ec2 instance to implement and test key core k8s concepts.
 # config.yml
 File creating kind-cluster with three worker nodes and a control plane
 # apache
